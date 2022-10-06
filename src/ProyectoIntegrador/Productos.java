@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Productos {
     public static void main(String[] args) {
-        String nombre, descripcion, categoria, etiquetas;
+        String nProducto, descripcion, categoria, etiquetas;
         double precio;
         URL foto;
 
